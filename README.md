@@ -59,5 +59,5 @@
 | White          | ![#e6f1ff](https://via.placeholder.com/10/e6f1ff?text=+) `#e6f1ff` |
 | Green          | ![#64ffda](https://via.placeholder.com/10/64ffda?text=+) `#64ffda` |
 
-## 🚨 This is not an original work
-I have forked this repository from https://github.com/bchiang7/v4
+## 🚨 This is not my original work
+I have forked this repository from https://github.com/bchiang7/v4 and made my changes on top of Brittany's theme.
