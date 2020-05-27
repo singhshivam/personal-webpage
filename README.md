@@ -4,6 +4,8 @@
   singhshivam.github.io
 </h1>
 
+![alt text](https://user-images.githubusercontent.com/5948095/82964613-8773b880-9f8b-11ea-8a77-e368f8178c2b.png)
+
 ## 🛠 Installation & Set Up
 
 1. Install the Gatsby CLI
