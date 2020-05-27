@@ -2,12 +2,12 @@
 title: 'About Me'
 avatar: './me.jpg'
 skills:
-  - Ruby
-  - Rails
+  - Ruby on Rails
   - JavaScript (ES6+)
-  - HTML & CSS
+  - Python
   - React
   - MySql
+  - Unity
 ---
 
 I am experienced in building software products from the ground up, strategizing product development and leading engineering teams. Motivated by product success and business growth I am an incisive decision-maker. As the first hire at [BlogVault](https://blogvault.net), I played a vital role in growing the company 20x in size and revenue.

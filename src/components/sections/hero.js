@@ -57,7 +57,6 @@ const StyledEmailLink = styled.a`
 `;
 
 const Hero = ({ data }) => {
-  console.log(data)
   const [isMounted, setIsMounted] = useState(false);
 
   useEffect(() => {
