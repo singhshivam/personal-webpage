@@ -1,5 +1,5 @@
 ---
-date: '4'
+date: '5'
 title: 'Covid Visualization Dashboard'
 cover: './visualization.png'
 github: 'https://github.com/singhshivam/Covid-visualization'
