@@ -1,5 +1,5 @@
 ---
-date: '2017-12-21'
+date: '2012-05-01'
 title: 'Summer Intern'
 company: 'Mobiquest Mobile Technologies'
 location: 'Noida, India'

@@ -6,7 +6,7 @@ const IconLogo = () => (
     height="100%"
     xmlns="http://www.w3.org/2000/svg"
     viewBox="214.18125 13.9893798828125 78 87"
-    style={{ background: 'rgba(0, 0, 0, 0);', fontSize: '100px' }}
+    style={{ background: 'rgba(0, 0, 0, 0)', fontSize: '100px' }}
     preserveAspectRatio="xMidYMid">
     <defs>
       <filter id="editing-vr">
