@@ -33,6 +33,7 @@ const Head = ({ metadata }) => (
     <meta property="og:image:type" content="image/png" />
     <meta property="og:locale" content={config.siteLanguage} />
     <meta itemProp="name" content={metadata.title} />
+    <meta name="author" content="Shivam Singh"></meta>
     <meta itemProp="description" content={metadata.description} />
     <meta itemProp="image" content={`${config.siteUrl}${ogImage}`} />
     <meta name="twitter:card" content="summary_large_image" />
